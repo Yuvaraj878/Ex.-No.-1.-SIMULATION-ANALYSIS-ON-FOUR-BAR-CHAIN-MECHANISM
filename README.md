@@ -54,6 +54,7 @@
 
 ## Output:
 
+![275326563-703d6f1a-6de3-4936-91e7-054e136a0026](https://github.com/Yuvaraj878/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118622554/e36f7b08-0d63-40ea-97fe-03f4141bd7c9)
 
 ### Name: YUVARAJ.S
 ### Register Number:  212222240119
